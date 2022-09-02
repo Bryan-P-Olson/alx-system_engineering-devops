@@ -1,1 +1,1 @@
-Script that lists all files in a long format
+script that prints the type of the file named iamafile
