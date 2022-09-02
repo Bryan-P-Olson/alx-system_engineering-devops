@@ -1,3 +1,1 @@
-Create a magic file school.mgc that can be used with the comma
-
-nd file to detect School data files
+Create a magic file that can be used with the command file
