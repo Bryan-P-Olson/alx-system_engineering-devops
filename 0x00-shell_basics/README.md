@@ -1,1 +1,1 @@
-Create a script that creates the above directories in the current directory
+ files and directories of the current directory, separated by commas
